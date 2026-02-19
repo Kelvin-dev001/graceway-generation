@@ -91,7 +91,7 @@ export default function WaitlistForm() {
           name="whatsapp_number"
           aria-label="WhatsApp Number"
           required
-          placeholder="+1 555 123 4567"
+          placeholder="+254 7xx xxx xxx"
           className="w-full border rounded-lg px-3 py-2 mt-1"
         />
         {errors.whatsapp_number && (
