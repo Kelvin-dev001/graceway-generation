@@ -3,6 +3,7 @@ import ProblemSection from "@/components/ProblemSection";
 import VisionSection from "@/components/VisionSection";
 import BenefitsSection from "@/components/BenefitsSection";
 import FinalCTASection from "@/components/FinalCTASection";
+import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export default function HomePage() {
@@ -13,6 +14,7 @@ export default function HomePage() {
       <VisionSection />
       <BenefitsSection />
       <FinalCTASection />
+      <Navbar />
       <Footer />
     </main>
   );

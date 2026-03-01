@@ -1,8 +1,8 @@
 const benefits = [
-  "Access to online prayer gatherings",
-  "Early access to discipleship cohorts",
-  "Private digital community access",
-  "Evangelism training",
+  "Early Access to discipleship trainings and materials",
+  "Access to roundtable physical meetings",
+  "Become prt of the platform development process and feedback",
+  "Early access to beneficiary opportunities",
   "Leadership development pathway"
 ];
 

@@ -17,10 +17,10 @@ export default function HeroSection() {
             Global Digital Faith Movement
           </p>
           <h1 className="text-4xl md:text-6xl font-bold text-primary leading-tight">
-            A Generation Marked by Grace.
+           Building online authentic communinity of believers.
           </h1>
           <p className="text-lg text-gray-700 max-w-xl">
-            Graceway Generation is a global digital movement igniting bold
+            Graceway Generation is a global digital movement igniting bold christ-centered
             believers through evangelism, discipleship, and leadership in the
             modern world.
           </p>

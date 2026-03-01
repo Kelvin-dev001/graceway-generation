@@ -4,11 +4,12 @@ const config = {
   theme: {
     extend: {
       colors: {
-        primary: "#4B2E83",
-        accent: "#B08D57"
+        primary: "#0B1C6D",   // deep blue
+        accent: "#F36B21",    // orange
+        highlight: "#3BBF4A"  // green
       },
       boxShadow: {
-        soft: "0 12px 40px rgba(0,0,0,0.06)"
+        soft: "0 12px 40px rgba(11,28,109,0.12)"
       }
     }
   },
